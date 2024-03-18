@@ -1,0 +1,52 @@
+16:18:54.146 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login button
+16:18:54.163 [main] INFO  testCases.TC_002_LoginTest - Successful login
+16:18:54.165 [main] INFO  testCases.TC_002_LoginTest - ***** Finished TC_002_LoginTest ******
+16:20:20.376 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** starting TC_001_AccountRegistrationTest ***** 
+16:20:20.378 [main] DEBUG testCases.TC_001_AccountRegistrationTest - Application logs.......
+16:20:20.421 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****Clicked on My Account link*****
+16:20:20.544 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****Clicked on My Register link*****
+16:20:20.544 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****Entering user registration details*****
+16:20:20.926 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+16:20:20.940 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating confirmation message
+16:20:20.941 [main] INFO  testCases.TC_001_AccountRegistrationTest - !!!!!!!! Test Passed !!!!!!!!
+16:20:20.942 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest Execution *****
+16:20:27.523 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest
+16:20:27.523 [main] DEBUG testCases.TC_002_LoginTest - Capturing application debug logs......
+16:20:27.524 [main] INFO  testCases.TC_002_LoginTest - Clicking My Account drop-down
+16:20:27.601 [main] INFO  testCases.TC_002_LoginTest - Clikcing Login from 'My Account' drop down
+16:20:27.822 [main] INFO  testCases.TC_002_LoginTest - Filling up email address and password
+16:20:28.005 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login button
+16:20:28.023 [main] INFO  testCases.TC_002_LoginTest - Successful login
+16:20:28.024 [main] INFO  testCases.TC_002_LoginTest - ***** Finished TC_002_LoginTest ******
+16:22:47.349 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** starting TC_001_AccountRegistrationTest ***** 
+16:22:47.350 [main] DEBUG testCases.TC_001_AccountRegistrationTest - Application logs.......
+16:22:47.395 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****Clicked on My Account link*****
+16:22:47.558 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****Clicked on My Register link*****
+16:22:47.558 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****Entering user registration details*****
+16:22:47.958 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+16:22:47.978 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating confirmation message
+16:22:47.978 [main] INFO  testCases.TC_001_AccountRegistrationTest - !!!!!!!! Test Passed !!!!!!!!
+16:22:47.979 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest Execution *****
+16:22:54.475 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest
+16:22:54.475 [main] DEBUG testCases.TC_002_LoginTest - Capturing application debug logs......
+16:22:54.475 [main] INFO  testCases.TC_002_LoginTest - Clicking My Account drop-down
+16:22:54.520 [main] INFO  testCases.TC_002_LoginTest - Clikcing Login from 'My Account' drop down
+16:22:54.654 [main] INFO  testCases.TC_002_LoginTest - Filling up email address and password
+16:22:54.879 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login button
+16:22:54.895 [main] INFO  testCases.TC_002_LoginTest - Successful login
+16:22:54.896 [main] INFO  testCases.TC_002_LoginTest - ***** Finished TC_002_LoginTest ******
+16:26:00.241 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** starting TC_001_AccountRegistrationTest ***** 
+16:26:00.243 [main] DEBUG testCases.TC_001_AccountRegistrationTest - Application logs.......
+16:26:00.285 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****Clicked on My Account link*****
+16:26:00.463 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****Clicked on My Register link*****
+16:26:00.463 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****Entering user registration details*****
+16:26:00.915 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+16:26:00.930 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating confirmation message
+16:26:00.930 [main] ERROR testCases.TC_001_AccountRegistrationTest - !!!!!!!! Test Failed !!!!!!!!
+16:26:07.788 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest
+16:26:07.789 [main] DEBUG testCases.TC_002_LoginTest - Capturing application debug logs......
+16:26:07.790 [main] INFO  testCases.TC_002_LoginTest - Clicking My Account drop-down
+16:26:07.831 [main] INFO  testCases.TC_002_LoginTest - Clikcing Login from 'My Account' drop down
+16:26:07.965 [main] INFO  testCases.TC_002_LoginTest - Filling up email address and password
+16:26:08.171 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login button
+16:26:08.188 [main] INFO  testCases.TC_002_LoginTest - Successful login
