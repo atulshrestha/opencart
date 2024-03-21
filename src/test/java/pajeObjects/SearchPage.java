@@ -15,16 +15,16 @@ public class SearchPage extends BasePage{
 		super(driver);
 	}
 	
-	@FindBy(xpath = "//img[@title='MacBook']")
+	@FindBy(xpath = "//*[@id='content']/div[3]//img")
 	List<WebElement> searchProducts;
 	
-	@FindBy(xpath="//input[@id='input-quantity']")
+	@FindBy(name="quantity")
 	WebElement txtQuantity;
 	
 	@FindBy(xpath="//button[@id='button-cart']")
 	WebElement btnaddToCart;
 	
-	@FindBy(xpath="//div[@class='alert alert-success alert-dismissible']")
+	@FindBy(xpath="//div[contains(text(),'Success: You have added')]")
 	WebElement cnfMsg;
 	
 	

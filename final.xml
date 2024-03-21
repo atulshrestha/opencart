@@ -9,7 +9,7 @@
   		<run>
 			  <include name="sanity" />
 			  <include name="regression"/>
-			  <!-- <include name ="master"/> --> <!-- This will execute both the groups of test cases -->
+			  <include name ="master"/> <!-- This will execute both the groups of test cases -->
 			  <exclude name=""></exclude>
 			  </run>
  	</groups>
@@ -28,8 +28,9 @@
     <classes>
      <!-- <class name="testCases.TC_001_AccountRegistrationTest"/>
       <class name="testCases.TC_002_LoginTest"/> 
-      <class name="testCases.TC_003_LoginDDT"/> -->
-      <class name="testCases.TC_004_SearchProductTest"/>
+      <class name="testCases.TC_003_LoginDDT"/> 
+      <class name="testCases.TC_004_SearchProductTest"/> -->
+      <class name="testCases.TC_005_AddToCartPageTest"/>
     </classes>
     
   </test> <!-- Test -->

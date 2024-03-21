@@ -11,17 +11,18 @@
       <run>
         <include name="sanity"/>
         <include name="regression"/>
+        <include name="master"/>
         <exclude name=""/>
       </run>
     </groups>
     <classes>
-      <class name="testCases.TC_004_SearchProductTest">
+      <class name="testCases.TC_005_AddToCartPageTest">
         <methods>
           <include name="tearDown"/>
-          <include name="verify_productSearch"/>
+          <include name="verify_addToCart"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- testCases.TC_004_SearchProductTest -->
+      </class> <!-- testCases.TC_005_AddToCartPageTest -->
     </classes>
   </test> <!-- ChromeTest(failed) -->
 </suite> <!-- Failed suite [Suite] -->

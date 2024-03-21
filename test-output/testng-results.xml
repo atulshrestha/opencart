@@ -2,18 +2,15 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-18T13:16:19 EDT" name="Suite" finished-at="2024-03-18T13:16:27 EDT" duration-ms="8116">
+  <suite started-at="2024-03-21T16:44:10 EDT" name="Suite" finished-at="2024-03-21T16:44:25 EDT" duration-ms="14958">
     <groups>
-      <group name="regression">
-        <method signature="TC_004_SearchProductTest.verify_productSearch()[pri:0, instance:testCases.TC_004_SearchProductTest@54c5a2ff]" name="verify_productSearch" class="testCases.TC_004_SearchProductTest"/>
-      </group> <!-- regression -->
       <group name="master">
-        <method signature="TC_004_SearchProductTest.verify_productSearch()[pri:0, instance:testCases.TC_004_SearchProductTest@54c5a2ff]" name="verify_productSearch" class="testCases.TC_004_SearchProductTest"/>
+        <method signature="TC_005_AddToCartPageTest.verify_addToCart()[pri:0, instance:testCases.TC_005_AddToCartPageTest@549621f3]" name="verify_addToCart" class="testCases.TC_005_AddToCartPageTest"/>
       </group> <!-- master -->
     </groups>
-    <test started-at="2024-03-18T13:16:19 EDT" name="ChromeTest" finished-at="2024-03-18T13:16:27 EDT" duration-ms="8116">
-      <class name="testCases.TC_004_SearchProductTest">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_004_SearchProductTest@54c5a2ff]" started-at="2024-03-18T13:16:19 EDT" name="setup" finished-at="2024-03-18T13:16:27 EDT" duration-ms="7591" status="PASS">
+    <test started-at="2024-03-21T16:44:10 EDT" name="ChromeTest" finished-at="2024-03-21T16:44:25 EDT" duration-ms="14958">
+      <class name="testCases.TC_005_AddToCartPageTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_005_AddToCartPageTest@549621f3]" started-at="2024-03-21T16:44:10 EDT" name="setup" finished-at="2024-03-21T16:44:19 EDT" duration-ms="8932" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -29,15 +26,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verify_productSearch()[pri:0, instance:testCases.TC_004_SearchProductTest@54c5a2ff]" started-at="2024-03-18T13:16:27 EDT" name="verify_productSearch" finished-at="2024-03-18T13:16:27 EDT" duration-ms="285" status="PASS">
+        <test-method signature="verify_addToCart()[pri:0, instance:testCases.TC_005_AddToCartPageTest@549621f3]" started-at="2024-03-21T16:44:19 EDT" name="verify_addToCart" finished-at="2024-03-21T16:44:25 EDT" duration-ms="5833" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verify_productSearch -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_004_SearchProductTest@54c5a2ff]" started-at="2024-03-18T13:16:27 EDT" name="tearDown" finished-at="2024-03-18T13:16:27 EDT" duration-ms="118" status="PASS">
+        </test-method> <!-- verify_addToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_005_AddToCartPageTest@549621f3]" started-at="2024-03-21T16:44:25 EDT" name="tearDown" finished-at="2024-03-21T16:44:25 EDT" duration-ms="96" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TC_004_SearchProductTest -->
+      </class> <!-- testCases.TC_005_AddToCartPageTest -->
     </test> <!-- ChromeTest -->
   </suite> <!-- Suite -->
 </testng-results>
