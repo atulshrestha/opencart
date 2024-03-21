@@ -12,13 +12,13 @@ public class ShoppingCartPage extends BasePage {
 	
 	
 	
-	@FindBy(xpath="//span[@id='cart-total']")
+	@FindBy(xpath="//div[@id='cart']")
 	WebElement btnItems;
 	
 	@FindBy(xpath="//strong[normalize-space()='View Cart']")
 	WebElement lnkViewCart;
 	
-	@FindBy(xpath="//strong[normalize-space()='Total:']")
+	@FindBy(xpath="//*[@id='content']/div[2]/div/table//strong[text()='Total:']//following::td")
 	WebElement lblTotalPrice;
 	
 	@FindBy(xpath="//a[@class='btn btn-primary']")
@@ -30,7 +30,7 @@ public class ShoppingCartPage extends BasePage {
 	}
 	
 	public void clicklnkViewCart() {
-		btnItems.click();
+		lnkViewCart.click();
 	}
 	
 	public String getTotalPrice() {
